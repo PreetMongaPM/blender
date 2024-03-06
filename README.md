@@ -18,16 +18,7 @@ Project Pages
 
 - [Main Website](http://www.blender.org)
 - [Reference Manual](https://docs.blender.org/manual/en/latest/index.html)
-- [User Community](https://www.blender.org/community/)
-
-Development
------------
-
-- [Build Instructions](https://developer.blender.org/docs/handbook/building_blender/)
-- [Code Review & Bug Tracker](https://projects.blender.org)
-- [Developer Forum](https://devtalk.blender.org)
-- [Developer Documentation](https://developer.blender.org/docs/)
-
+- [User Community](https://www.blender.org/community/
 
 License
 -------
